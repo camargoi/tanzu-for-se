@@ -1,7 +1,7 @@
 # Tanzu Application Platform Workshop 2022
 
 <p align="left">
-  <img src="VMware_Tanzu_logo.png" width="500" title="hover text">
+  <img src="VMware_Tanzu_Logo.png" width="500" title="hover text">
 </p>
 
 
